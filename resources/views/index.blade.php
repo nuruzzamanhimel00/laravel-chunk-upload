@@ -78,6 +78,7 @@
 
     resumable.on('fileSuccess', function (file, response) { // trigger when file upload complete
         response = JSON.parse(response)
+        console.log(response, response.path)
         $('#videoPreview').attr('src', response.path);
         $('.card-footer').show();
     });
