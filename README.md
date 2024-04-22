@@ -6,4 +6,3 @@ Packages used
 - Tutorial: https://www.youtube.com/watch?v=OnDXaT_sIRk
 
 
-Don't forget to subscibe the channel.
